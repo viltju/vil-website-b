@@ -35,6 +35,6 @@ publishDate: '2021-12-19T15:28:33.607129Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Trans. Image Process.*'
+publication: '*IEEE Trans. Image Process. (TIP)*'
 doi: 10.1109/TIP.2020.3040528
 ---
