@@ -6,10 +6,8 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+title: Visual Intelligence Lab
+hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -18,6 +16,4 @@ design:
   css_class:
 ---
 
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our **Visual Intelligence Lab** aims to develop high-quality technique for computer vision community. Currently, we main focus on four research areas including active visual perception, medical image processing, video understanding and sign language understanding. Our team owns 6 senior researchers as well as 80+ students. In the past years, we have a number of high-quality papers published on top conferences or journals and projects upon various applications.
