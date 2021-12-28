@@ -4,7 +4,7 @@ date: 2021-12-19T15:37:51.045Z
 draft: false
 featured: true
 authors: 
-  - Ricky Gao
+  - Ruijun Gao
 image:
   filename: featured.jpg
   focal_point: Smart
