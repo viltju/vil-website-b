@@ -17,7 +17,6 @@ organizations:
 bio: His major research interests are active robotic vision and visual intelligence.
 
 interests:
-- Artificial Intelligence
 - Computer Vision
 
 education:

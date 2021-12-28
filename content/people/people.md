@@ -17,7 +17,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Faculties
-  - Students
+  - Doctor Students
+  - Master Students
   - Visitors
 design:
   show_interests: false

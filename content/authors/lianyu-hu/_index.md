@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ruijun Gao
+title: Lianyu Hu
 
 # Role/position
-role: MS Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -11,21 +11,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: His research interests include computer vision and image processing.
+bio: His research interests include video understanding.
 
 interests:
 - Computer Vision
-- Image Processing
-- Adversarial Attack
+- Video Understanding
 
 education:
   courses:
   - course: MS
-    institution: Tianjin University
-    year: 2022
+    institution: Dalian University of Technology
+    year: 2021
   - course: BS
-    institution: Tianjin University
-    year: 2019
+    institution: Dalian University of Technology
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +33,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gaoruijun@tju.edu.cn'
+  link: 'mailto:hly2021@tju.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +49,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Doctor Students
 ---
 
-He received the B.S. degree in computer science and technology from the College of Intelligence and Computing, Tianjin University, China, in 2019, where he is currently pursuing the M.S. degree. His research interests include computer vision and image processing.
+He received the M.S. degree in computer science and technology from Dalian University of Technology, China, in 2021. He is currently pursuing the PhD degree. His research interests mainly include video understanding.

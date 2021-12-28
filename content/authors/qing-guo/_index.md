@@ -14,8 +14,9 @@ organizations:
 bio: His research interests include computer vision and image processing.
 
 interests:
-- Artificial Intelligence
 - Computer Vision
+- AI Security
+- Image Processing
 
 education:
   courses:
