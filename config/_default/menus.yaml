@@ -16,4 +16,6 @@ main:
   - name: Projects
     url: project
     weight: 50
-
+  - name: Resources
+    url: resources
+    weight: 60
