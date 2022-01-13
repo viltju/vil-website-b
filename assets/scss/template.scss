@@ -11,3 +11,31 @@
 .hero-title {
   margin-bottom: 2rem;
 }
+
+.media {
+  flex-direction: row-reverse;
+  gap           : 1rem;
+}
+
+.media-body+div {
+  margin    : 0;
+  align-self: center;
+}
+
+#news .card-simple {
+  border       : none;
+  border-radius: 0;
+  box-shadow   : none;
+  text-align   : center;
+
+  a:nth-child(2) {
+    display  : block;
+    width    : 50%;
+    min-width: 14em;
+    margin   : 0 auto;
+  }
+
+  &:not(:last-child) {
+    background: bottom / 100% 1px no-repeat linear-gradient(to right, transparent 20%, rgba(black, .2), transparent 80%);
+  }
+}

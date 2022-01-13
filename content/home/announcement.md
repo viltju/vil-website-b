@@ -3,7 +3,7 @@ title: Announcement
 subtitle:
 widget: blank
 headless: true
-weight: 11
+weight: 16
 design:
   columns: '1'
 ---

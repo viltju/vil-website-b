@@ -3,7 +3,7 @@ title: Brief News
 subtitle:
 widget: blank
 headless: true
-weight: 12
+weight: 17
 design:
   columns: '1'
 ---
