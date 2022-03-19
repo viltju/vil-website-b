@@ -39,7 +39,4 @@ weight: 10
 
 # 8. Write your introduction in the following
 --- 
-I am happy to cooperate closely with the members of our Video Analysis Team (VAT) under ViL, including but not limited to Jiewen Zhao, Yiyang Gan, Jiacheng Li, Haomin Yan, Likai Wang, etc.
-My main research focus is about the complementatry-view multi-human association and tracking.
-I am also interested in the human social activity detection in the crowded scene and the spatial-temporal mobile camera localization and alignment.
-For more details, please see my homepage at 'http://www.ruizehan.cn'.  
+I am a final-year Ph.D. student at the College of Intelligence and Computing in Tianjin University (TJU) under the supervision of Prof. Wei Feng. I am lucky to have opportunities to work with Prof. Song Wang (University of South Carolina). I received my M.Eng degree from Tianjin University in 2019, supervised by Prof. Feng. My research interest is visual intelligence, specifically including multi-camera video collaborative analysis, and visual object tracking. I have served as the reviewer for the journals of IEEE TPAMI, IEEE TMM, Neurocomputing, and the PC member/reviewer for the conferences of ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, etc.  I am happy to cooperate closely with the members of our Video Analysis Team (VAT) under ViL, including but not limited to Jiewen Zhao, Yiyang Gan, Jiacheng Li, Haomin Yan, Likai Wang, etc. My main research focus is about the complementatry-view multi-human association and tracking. I am also interested in the human social activity detection in the crowded scene and the spatial-temporal mobile camera localization and alignment. For more details, please see my homepage at 'http://www.ruizehan.cn'.  
