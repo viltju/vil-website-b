@@ -1,6 +1,7 @@
 ---
 title: Cunling Bian
 role: PhD Candidate
+avatar_filename: avatar.jpg
 bio: His research interests include human action analysis.
 interests:
   - Action Analysis
