@@ -17,13 +17,12 @@ interests:  # 4. Write your research interests
 
 education:  # 5. Write your education experience
   courses:
-  - M.Eng., Computer Technology
+  - course: M.Eng., Computer Technology
     institution: Tianjin University
     year: 2019
-  - B.S., Mathematics and Applied Mathematics
+  - course: B.S., Mathematics and Applied Mathematics
     institution: Hebei University of Technology
     year: 2016
-
 
 social:
 - icon: envelope
