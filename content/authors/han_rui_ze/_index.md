@@ -37,8 +37,8 @@ user_groups:
 
 weight: 10
 
---- # 8. Write your introduction in the following
-
+# 8. Write your introduction in the following
+--- 
 I am happy to cooperate closely with the members of our Video Analysis Team (VAT) under ViL, including but not limited to Jiewen Zhao, Yiyang Gan, Jiacheng Li, Haomin Yan, Likai Wang, etc.
 My main research focus is about the complementatry-view multi-human association and tracking.
 I am also interested in the human social activity detection in the crowded scene and the spatial-temporal mobile camera localization and alignment.
