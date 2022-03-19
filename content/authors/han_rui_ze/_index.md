@@ -8,11 +8,7 @@ organizations:
   url: ""
 
 # Short bio  
-bio: I am a final-year Ph.D. student at the College of Intelligence and Computing in Tianjin University (TJU) under the supervision of Prof. Wei Feng. 
-I am lucky to have opportunities to work with Prof. Song Wang (University of South Carolina).
-I received my M.Eng degree from Tianjin University in 2019, supervised by Prof. Feng. 
-My research interest is visual intelligence, specifically including multi-camera video collaborative analysis, and visual object tracking.
-I have served as the reviewer for the journals of IEEE TPAMI, IEEE TMM, Neurocomputing, and the PC member/reviewer for the conferences of ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, etc.   # 3. Write your short biography
+bio: I am a final-year Ph.D. student at the College of Intelligence and Computing in Tianjin University (TJU) under the supervision of Prof. Wei Feng. I am lucky to have opportunities to work with Prof. Song Wang (University of South Carolina). I received my M.Eng degree from Tianjin University in 2019, supervised by Prof. Feng. My research interest is visual intelligence, specifically including multi-camera video collaborative analysis, and visual object tracking. I have served as the reviewer for the journals of IEEE TPAMI, IEEE TMM, Neurocomputing, and the PC member/reviewer for the conferences of ICCV, CVPR, ECCV, AAAI, IJCAI, ICME, etc.   # 3. Write your short biography
 
 interests:  # 4. Write your research interests
 - Computer Vision
