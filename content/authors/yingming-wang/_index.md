@@ -1,0 +1,41 @@
+---
+title: Yingming Wang   # 1. Name
+
+role: MS Candidate  #2. Choose from 'MS Candidate/PhD Candidate'
+
+organizations:
+- name: Tianjin University
+  url: ""
+
+# Short bio 
+bio: His research interests include photometric stereo.   # 3. Write your short biography
+
+interests:  # 4. Write your research interests
+- Computer Vision
+
+education:  # 5. Write your education experience
+  courses:
+  - course: MS
+    institution: Tianjin University
+    year: 2022
+  - course: BS
+    institution: Tianjin University
+    year: 2019
+
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:wym@tju.edu.cn'   # 6. Replace it with your email
+
+highlight_name: false
+
+
+user_groups:
+- Master Students # 7. Choose from 'Doctor Students/Master Students'
+
+weight: 10
+# 8. Write your introduction in the following
+---
+
+He received the B.S. degree in Optoelectronic Information Science and Engineering from Tianjin University of Technology, China, in 2019. He is currently pursuing the M.S degree. His research interests mainly include photometric stereo.
