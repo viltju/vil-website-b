@@ -27,7 +27,7 @@ education:  # 5. Write your education experience
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jiazhengwang@tju.edu.cn'   # 6. Replace it with your email
+  link: 'mailto:jiazhengwang@tju.edu.cn'   # 6. Replace it with your email
 
 highlight_name: false
 
@@ -37,7 +37,5 @@ user_groups:
 
 weight: 10
 # 8. Write your introduction in the following
-He received the B.S. degree in software engineering from School of software，North University of China, China, in 2019. He is currently pursuing the M.S. degree. His research interests mainly include computer vision and knowledge distillation.
----
 
-He received the M.S. degree in computer science and technology from Dalian University of Technology, China, in 2021. He is currently pursuing the PhD degree. His research interests mainly include video understanding.
+He received the B.S. degree in software engineering from School of software，North University of China, China, in 2019. He is currently pursuing the M.S. degree. His research interests mainly include computer vision and knowledge distillation.
