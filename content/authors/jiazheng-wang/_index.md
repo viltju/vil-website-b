@@ -37,5 +37,6 @@ user_groups:
 
 weight: 10
 # 8. Write your introduction in the following
+---
 
 He received the B.S. degree in software engineering from School of software，North University of China, China, in 2019. He is currently pursuing the M.S. degree. His research interests mainly include computer vision and knowledge distillation.
