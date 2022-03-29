@@ -1,12 +1,12 @@
 ---
 title: Annual Party
-date: 2022-03-29T03:24:46.781Z
+date: 2022-03-29T07:24:28.234Z
 draft: false
 featured: true
 authors:
   - Lianyu Hu
 image:
-  filename: alumni.jpg
+  filename: featured.jpg
   focal_point: BOTTOM
   preview_only: false
 ---
