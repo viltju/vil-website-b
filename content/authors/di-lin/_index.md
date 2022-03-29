@@ -50,7 +50,7 @@ highlight_name: false
 user_groups:
 - Faculties
 
-weight: 30
+weight: 3
 ---
 
 Di Lin is a tenured associate professor with the College of Intelligence and Computing, Tianjin University. He received a Ph.D. degree from the Computer Science and Engineering Department, the Chinese University of Hong Kong, and a B.Eng. degree in software engineering at Sun Yat-Sen University, China. His research interests include computer vision and machine learning.
