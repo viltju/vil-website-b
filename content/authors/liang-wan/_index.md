@@ -59,7 +59,7 @@ highlight_name: false
 user_groups:
 - Faculties
 
-weight: 40
+weight: 2
 ---
 
 Dr. Liang Wan received her B.Eng and M.Eng degrees in Computer Science and Engineering from Northwestern Polytechnical University, P.R. China, in 2000 and 2003, respectively. She obtained a Ph.D. degree in Computer Science and Engineering from The Chinese University of Hong Kong in 2007. She has worked as a postdoctoral researcher at the department of Electronic Engineering, City University of Hong Kong from Sept. 2007 to  Jan. 2011. Afterwards, she joined School of Computer Software, Tianjin University, P. R. China. She is currently an Associate Professor. Her research interest is mainly on panoramic image processing, image-based navigation, pre-computed lighting, computer graphics and computer vision.
