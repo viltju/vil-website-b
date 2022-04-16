@@ -1,5 +1,5 @@
 ---
-title: "DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms"
+title: "DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms (MM '20: The 28th ACM International Conference on Multimedia, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.035425Z
 authors: ["Hua Qi", "Qing Guo", "Felix Juefei-Xu", "Xiaofei Xie", "Lei Ma", "Wei Feng", "Yang Liu", "Jianjun Zhao"]

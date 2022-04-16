@@ -1,5 +1,5 @@
 ---
-title: "Experimental Study on Estimation of Global Mean with Preferential Spatial Samples"
+title: "Experimental Study on Estimation of Global Mean with Preferential Spatial Samples (Intell. Autom. Soft Comput., 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.120198Z
 authors: ["Xuhong Ren", "Ning Wei", "Bingbo Gao", "Yuchun Pan", "Qing Guo", "Yunbing Gao"]

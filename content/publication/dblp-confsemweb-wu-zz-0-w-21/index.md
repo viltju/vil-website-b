@@ -1,5 +1,5 @@
 ---
-title: "A Knowledge-based Deep Heterogeneous Graph Matching Model for Multimodal RecipeQA"
+title: "A Knowledge-based Deep Heterogeneous Graph Matching Model for Multimodal RecipeQA (Proceedings of the ISWC 2021 Posters, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.089281Z
 authors: ["Yunjie Wu", "Sai Zhang", "Xiaowang Zhang", "Zhiyong Feng", "Liang Wan"]

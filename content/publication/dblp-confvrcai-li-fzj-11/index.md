@@ -1,5 +1,5 @@
 ---
-title: "Video motion estimation with temporal coherence"
+title: "Video motion estimation with temporal coherence (VRCAI 2011, 2011)"
 date: 2011-01-01
 publishDate: 2022-03-23T08:07:19.076316Z
 authors: ["Liang Li", "Wei Feng", "Jiawan Zhang", "Jianmin Jiang"]

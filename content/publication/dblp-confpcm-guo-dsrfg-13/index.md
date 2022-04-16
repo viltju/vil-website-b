@@ -1,5 +1,5 @@
 ---
-title: "Improved Rotating Kernel Transformation Based Contourlet Domain Image Denoising Framework"
+title: "Improved Rotating Kernel Transformation Based Contourlet Domain Image Denoising Framework (Advances in Multimedia Information Processing - PCM 2013 - 14th Pacific-Rim Conference on Multimedia, 2013)"
 date: 2013-01-01
 publishDate: 2022-03-23T08:07:19.123191Z
 authors: ["Qing Guo", "Fangmin Dong", "Shuifa Sun", "Xuhong Ren", "Shiyu Feng", "Bruce Zhi Gao"]

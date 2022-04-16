@@ -1,5 +1,5 @@
 ---
-title: "Near-surface lighting estimation and reconstruction"
+title: "Near-surface lighting estimation and reconstruction (2017 IEEE International Conference on Multimedia and Expo, 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.059361Z
 authors: ["Qian Zhang", "Fei-Peng Tian", "Rui-Ze Han", "Wei Feng"]

@@ -1,5 +1,5 @@
 ---
-title: "FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction"
+title: "FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction (MM '20: The 28th ACM International Conference on Multimedia, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.115212Z
 authors: ["Yihao Huang", "Felix Juefei-Xu", "Run Wang", "Qing Guo", "Lei Ma", "Xiaofei Xie", "Jianwen Li", "Weikai Miao", "Yang Liu", "Geguang Pu"]

@@ -1,5 +1,5 @@
 ---
-title: "Polygonal Approximation Based on Multi-Objective Optimization"
+title: "Polygonal Approximation Based on Multi-Objective Optimization (Intell. Autom. Soft Comput., 2012)"
 date: 2012-01-01
 publishDate: 2022-03-23T08:07:19.123191Z
 authors: ["Xiaojing Xuan", "Fangmin Dong", "Bangjun Lei", "Dong Ren", "Qing Guo"]

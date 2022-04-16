@@ -1,5 +1,5 @@
 ---
-title: "Exploiting DTN Routing Algorithms Under Resource Constraints"
+title: "Exploiting DTN Routing Algorithms Under Resource Constraints (SINC 2017, 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.105239Z
 authors: ["Risu Cha", "Yutao Chen", "Liang Wan", "Jian Wang"]

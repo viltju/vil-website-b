@@ -1,5 +1,5 @@
 ---
-title: "Foreign body recognition for coal mine conveyor based on improved PCANSet"
+title: "Foreign body recognition for coal mine conveyor based on improved PCANSet (WCSP 2019, 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.042406Z
 authors: ["Xiaohu Zhao", "Xiao Li", "Liangfei Yin", "Wei Feng", "Nan Zhang", "Xin Zhang"]

@@ -1,5 +1,5 @@
 ---
-title: "Complementary-View Co-Interest Person Detection"
+title: "Complementary-View Co-Interest Person Detection (MM '20: The 28th ACM International Conference on Multimedia, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.034428Z
 authors: ["Ruize Han", "Jiewen Zhao", "Wei Feng", "Yiyang Gan", "Liang Wan", "Song Wang"]

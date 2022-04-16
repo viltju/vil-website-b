@@ -1,5 +1,5 @@
 ---
-title: "FSD-10: A Dataset for Competitive Sports Content Analysis"
+title: "FSD-10: A Dataset for Competitive Sports Content Analysis (CoRR, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-20T03:37:24.960574Z
 authors: ["Sheng-lan Liu", "Xiang Liu", "Gao Huang", "Lin Feng", "Lianyu Hu", "Dong Jiang", "Aibin Zhang", "Yang Liu", "Hong Qiao"]

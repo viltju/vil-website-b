@@ -1,5 +1,5 @@
 ---
-title: "Learned Map Prediction for Enhanced Mobile Robot Exploration"
+title: "Learned Map Prediction for Enhanced Mobile Robot Exploration (ICRA 2019, 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.041409Z
 authors: ["Rakesh Shrestha", "Fei-Peng Tian", "Wei Feng", "Ping Tan", "Richard Vaughan"]

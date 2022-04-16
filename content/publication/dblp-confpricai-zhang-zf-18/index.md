@@ -1,5 +1,5 @@
 ---
-title: "High-Resolution Depth Refinement by Photometric and Multi-shading Constraints"
+title: "High-Resolution Depth Refinement by Photometric and Multi-shading Constraints (PRICAI 2018: Trends in Artificial Intelligence - 15th Pacific Rim International Conference on Artificial Intelligence, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.053377Z
 authors: ["Yujun Zhang", "Qian Zhang", "Wei Feng"]

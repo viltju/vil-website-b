@@ -1,5 +1,5 @@
 ---
-title: "Graph Matching Based Robust Line Segment Correspondence for Active Camera Relocalization"
+title: "Graph Matching Based Robust Line Segment Correspondence for Active Camera Relocalization (PRCV 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.026450Z
 authors: ["Mengyu Pan", "Chen Meng", "Fei-Peng Tian", "Wei Feng"]

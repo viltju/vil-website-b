@@ -1,5 +1,5 @@
 ---
-title: "A Low-Overhead Timing Monitoring Technique for Variation-Tolerant Near-Threshold Digital Integrated Circuits"
+title: "A Low-Overhead Timing Monitoring Technique for Variation-Tolerant Near-Threshold Digital Integrated Circuits (IEEE Access, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.097259Z
 authors: ["Weiwei Shan", "Xinning Liu", "Minyi Lu", "Liang Wan", "Jun Yang"]

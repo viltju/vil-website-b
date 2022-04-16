@@ -1,5 +1,5 @@
 ---
-title: "Fine-tuning convolutional neural network with transfer learning for semantic segmentation of ground-level oilseed rape images in a field with high weed pressure"
+title: "Fine-tuning convolutional neural network with transfer learning for semantic segmentation of ground-level oilseed rape images in a field with high weed pressure (Comput. Electron. Agric., 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.093270Z
 authors: ["Alwaseela Abdalla", "Haiyan Cen", "Liang Wan", "Reem Rashid", "Haiyong Weng", "Weijun Zhou", "Yong He"]

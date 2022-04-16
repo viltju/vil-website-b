@@ -1,5 +1,5 @@
 ---
-title: "Mutatt: Visual-Textual Mutual Guidance For Referring Expression Comprehension"
+title: "Mutatt: Visual-Textual Mutual Guidance For Referring Expression Comprehension (ICME 2020, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.033431Z
 authors: ["Shuai Wang", "Fan Lyu", "Wei Feng", "Song Wang"]

@@ -1,5 +1,5 @@
 ---
-title: "High dynamic environment sequence sampling"
+title: "High dynamic environment sequence sampling (VRCAI 2014, 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.069335Z
 authors: ["Ying Yang", "Changguo Yu", "Liang Wan", "Wei Feng"]

@@ -1,5 +1,5 @@
 ---
-title: "Spherical superpixel segmentation"
+title: "Spherical superpixel segmentation (ICME 2016, 2016)"
 date: 2016-01-01
 publishDate: 2022-03-23T08:07:19.106236Z
 authors: ["Qiang Zhao", "Liang Wan", "Jiawan Zhang"]

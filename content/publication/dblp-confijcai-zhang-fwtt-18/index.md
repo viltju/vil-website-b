@@ -1,5 +1,5 @@
 ---
-title: "Active Recurrence of Lighting Condition for Fine-Grained Change Detection"
+title: "Active Recurrence of Lighting Condition for Fine-Grained Change Detection (IJCAI 2018, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.052379Z
 authors: ["Qian Zhang", "Wei Feng", "Liang Wan", "Fei-Peng Tian", "Ping Tan"]

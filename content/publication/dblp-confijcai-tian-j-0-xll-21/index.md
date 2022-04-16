@@ -1,5 +1,5 @@
 ---
-title: "AVA: Adversarial Vignetting Attack against Visual Recognition"
+title: "AVA: Adversarial Vignetting Attack against Visual Recognition (IJCAI 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.112219Z
 authors: ["Binyu Tian", "Felix Juefei-Xu", "Qing Guo", "Xiaofei Xie", "Xiaohong Li", "Yang Liu"]

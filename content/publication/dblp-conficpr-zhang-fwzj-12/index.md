@@ -1,5 +1,5 @@
 ---
-title: "Scalable image co-segmentation using color and covariance features"
+title: "Scalable image co-segmentation using color and covariance features (ICPR 2012, 2012)"
 date: 2012-01-01
 publishDate: 2022-03-23T08:07:19.074321Z
 authors: ["Shijie Zhang", "Wei Feng", "Liang Wan", "Jiawan Zhang", "Jianmin Jiang"]

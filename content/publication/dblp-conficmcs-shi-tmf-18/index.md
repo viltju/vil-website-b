@@ -1,5 +1,5 @@
 ---
-title: "Fast and Reliable Computational Rephotography on Mobile Device"
+title: "Fast and Reliable Computational Rephotography on Mobile Device (2018 IEEE International Conference on Multimedia and Expo, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.051383Z
 authors: ["Yi-Bo Shi", "Fei-Peng Tian", "Dongxu Miao", "Wei Feng"]

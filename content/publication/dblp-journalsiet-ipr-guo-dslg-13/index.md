@@ -1,5 +1,5 @@
 ---
-title: "Image denoising algorithm based on contourlet transform for optical coherence tomography heart tube image"
+title: "Image denoising algorithm based on contourlet transform for optical coherence tomography heart tube image (IET Image Process., 2013)"
 date: 2013-01-01
 publishDate: 2022-03-23T08:07:19.121196Z
 authors: ["Qing Guo", "Fangmin Dong", "Shuifa Sun", "Bang Jun Lei", "Bruce Zhi Gao"]

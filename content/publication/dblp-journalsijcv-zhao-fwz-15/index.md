@@ -1,5 +1,5 @@
 ---
-title: "SPHORB: A Fast and Robust Binary Feature on the Sphere"
+title: "SPHORB: A Fast and Robust Binary Feature on the Sphere (Int. J. Comput. Vis., 2015)"
 date: 2015-01-01
 publishDate: 2022-03-23T08:07:19.062354Z
 authors: ["Qiang Zhao", "Wei Feng", "Liang Wan", "Jiawan Zhang"]

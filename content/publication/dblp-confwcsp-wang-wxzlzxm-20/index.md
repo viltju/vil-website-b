@@ -1,5 +1,5 @@
 ---
-title: "Pilot Attack Identification and Elimination in Airborne Massive MIMO Systems by Exploiting the Sparse Structures of Channel"
+title: "Pilot Attack Identification and Elimination in Airborne Massive MIMO Systems by Exploiting the Sparse Structures of Channel (2020 International Conference on Wireless Communications and Signal Processing (WCSP), 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.092273Z
 authors: ["Yurong Wang", "Liang Wan", "Kui Xu", "Yuzhe Zhang", "Yang Li", "Zhiming Zhong", "Gejingting Xu", "Chengqian Ma"]

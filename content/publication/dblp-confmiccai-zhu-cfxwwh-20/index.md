@@ -1,5 +1,5 @@
 ---
-title: "A Second-Order Subregion Pooling Network for Breast Lesion Segmentation in Ultrasound"
+title: "A Second-Order Subregion Pooling Network for Breast Lesion Segmentation in Ultrasound (Medical Image Computing and Computer Assisted Intervention - MICCAI 2020 - 23rd International Conference, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.091276Z
 authors: ["Lei Zhu", "Rongzhen Chen", "Huazhu Fu", "Cong Xie", "Liansheng Wang", "Liang Wan", "Pheng-Ann Heng"]

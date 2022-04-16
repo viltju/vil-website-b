@@ -1,5 +1,5 @@
 ---
-title: "HFNet: A Novel Model for Human Focused Sports Action Recognition"
+title: "HFNet: A Novel Model for Human Focused Sports Action Recognition (MMSports '20: Proceedings of the 3rd International Workshop on Multimedia Content Analysis in Sports, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.016476Z
 authors: ["Lianyu Hu", "Lin Feng", "Shenglan Liu"]

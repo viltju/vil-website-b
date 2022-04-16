@@ -1,5 +1,5 @@
 ---
-title: "Amora: Black-box Adversarial Morphing Attack"
+title: "Amora: Black-box Adversarial Morphing Attack (MM '20: The 28th ACM International Conference on Multimedia, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.116209Z
 authors: ["Run Wang", "Felix Juefei-Xu", "Qing Guo", "Yihao Huang", "Xiaofei Xie", "Lei Ma", "Yang Liu"]

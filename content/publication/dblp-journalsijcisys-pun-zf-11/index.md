@@ -1,5 +1,5 @@
 ---
-title: "Real-Time Hand Gesture Recognition using Motion Tracking"
+title: "Real-Time Hand Gesture Recognition using Motion Tracking (Int. J. Comput. Intell. Syst., 2011)"
 date: 2011-01-01
 publishDate: 2022-03-23T08:07:19.075318Z
 authors: ["Chi-Man Pun", "Hong-Min Zhu", "Wei Feng"]

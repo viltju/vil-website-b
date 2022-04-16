@@ -1,5 +1,5 @@
 ---
-title: "DSU-Net: Distraction-Sensitive U-Net for 3D lung tumor segmentation"
+title: "DSU-Net: Distraction-Sensitive U-Net for 3D lung tumor segmentation (Eng. Appl. Artif. Intell., 2022)"
 date: 2022-01-01
 publishDate: 2022-03-23T08:07:19.084295Z
 authors: ["Junting Zhao", "Meng Dang", "Zhihao Chen", "Liang Wan"]

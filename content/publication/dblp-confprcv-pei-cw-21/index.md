@@ -1,5 +1,5 @@
 ---
-title: "POT: A Dataset of Panoramic Object Tracking"
+title: "POT: A Dataset of Panoramic Object Tracking (PRCV 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.088284Z
 authors: ["Shunda Pei", "Zhihao Chen", "Liang Wan"]

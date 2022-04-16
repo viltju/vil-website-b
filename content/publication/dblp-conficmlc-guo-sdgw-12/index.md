@@ -1,5 +1,5 @@
 ---
-title: "Optical Coherence Tomography heart tube image denoising based on contourlet transform"
+title: "Optical Coherence Tomography heart tube image denoising based on contourlet transform (ICMLC 2012, 2012)"
 date: 2012-01-01
 publishDate: 2022-03-23T08:07:19.124187Z
 authors: ["Qing Guo", "Shuifa Sun", "Fangmin Dong", "Bruce Zhi Gao", "Rui Wang"]

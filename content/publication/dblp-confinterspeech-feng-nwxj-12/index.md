@@ -1,5 +1,5 @@
 ---
-title: "Lexical Story Co-Segmentation of Chinese Broadcast News"
+title: "Lexical Story Co-Segmentation of Chinese Broadcast News (INTERSPEECH 2012, 2012)"
 date: 2012-01-01
 publishDate: 2022-03-23T08:07:19.074321Z
 authors: ["Wei Feng", "Xuecheng Nie", "Liang Wan", "Lei Xie", "Jianmin Jiang"]

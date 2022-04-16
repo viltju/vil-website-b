@@ -1,5 +1,5 @@
 ---
-title: "Demonstrability of Narrowband Internet of Things technology in advanced metering infrastructure"
+title: "Demonstrability of Narrowband Internet of Things technology in advanced metering infrastructure (EURASIP J. Wirel. Commun. Netw., 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.093270Z
 authors: ["Liang Wan", "Zhijian Zhang", "Jian Wang"]

@@ -1,5 +1,5 @@
 ---
-title: "Bias Field Poses a Threat to DNN-Based X-Ray Recognition"
+title: "Bias Field Poses a Threat to DNN-Based X-Ray Recognition (2021 IEEE International Conference on Multimedia and Expo, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.111222Z
 authors: ["Binyu Tian", "Qing Guo", "Felix Juefei-Xu", "Wen Le Chan", "Yupeng Cheng", "Xiaohong Li", "Xiaofei Xie", "Shengchao Qin"]

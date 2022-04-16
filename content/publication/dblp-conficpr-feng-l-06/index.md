@@ -1,5 +1,5 @@
 ---
-title: "Self-Validated and Spatially Coherent Clustering with Net-Structured MRF and Graph Cuts"
+title: "Self-Validated and Spatially Coherent Clustering with Net-Structured MRF and Graph Cuts (18th International Conference on Pattern Recognition (ICPR 2006), 2006)"
 date: 2006-01-01
 publishDate: 2022-03-23T08:07:19.082300Z
 authors: ["Wei Feng", "Zhi-Qiang Liu"]
