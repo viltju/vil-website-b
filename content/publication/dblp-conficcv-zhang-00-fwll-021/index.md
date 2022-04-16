@@ -17,7 +17,7 @@ doi: 10.1109/ICCV48922.2021.01539
 publication: "*2021 IEEE/CVF International Conference on Computer Vision, ICCV
   2021, Montreal, QC, Canada, October 10-17, 2021*"
 publication_short: ICCV 2021
-featured: false
+featured: true
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.023Z
 ---
