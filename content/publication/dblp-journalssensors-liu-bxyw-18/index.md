@@ -1,5 +1,5 @@
 ---
-title: "Development and Testing of an Integrated Rotating Dynamometer Based on Fiber Bragg Grating for Four-Component Cutting Force Measurement"
+title: "Development and Testing of an Integrated Rotating Dynamometer Based on Fiber Bragg Grating for Four-Component Cutting Force Measurement (Sensors, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.099254Z
 authors: ["Mingyao Liu", "Junjun Bing", "Li Xiao", "Kang Yun", "Liang Wan"]

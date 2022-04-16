@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised measure of Chinese lexical semantic similarity using correlated graph model for news story segmentation"
+title: "Unsupervised measure of Chinese lexical semantic similarity using correlated graph model for news story segmentation (Neurocomputing, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.044402Z
 authors: ["Wei Feng", "Xuecheng Nie", "Yujun Zhang", "Lei Xie", "Jianwu Dang"]

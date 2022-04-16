@@ -1,5 +1,5 @@
 ---
-title: "Self-Adaptively Weighted Co-Saliency Detection via Rank Constraint"
+title: "Self-Adaptively Weighted Co-Saliency Detection via Rank Constraint (IEEE Trans. Image Process., 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.065345Z
 authors: ["Xiaochun Cao", "Zhiqiang Tao", "Bao Zhang", "Huazhu Fu", "Wei Feng"]

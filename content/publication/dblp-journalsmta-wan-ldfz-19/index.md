@@ -1,5 +1,5 @@
 ---
-title: "Woodblock image decomposition of Chinese new year paintings"
+title: "Woodblock image decomposition of Chinese new year paintings (Multim. Tools Appl., 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.038418Z
 authors: ["Liang Wan", "Ye Liu", "Haipeng Dai", "Wei Feng", "Jiawan Zhang"]

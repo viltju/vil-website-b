@@ -1,5 +1,5 @@
 ---
-title: "Tone-Mapped Mean-Shift Based Environment Map Sampling"
+title: "Tone-Mapped Mean-Shift Based Environment Map Sampling (IEEE Trans. Vis. Comput. Graph., 2016)"
 date: 2016-01-01
 publishDate: 2022-03-23T08:07:19.060358Z
 authors: ["Wei Feng", "Ying Yang", "Liang Wan", "Changguo Yu"]

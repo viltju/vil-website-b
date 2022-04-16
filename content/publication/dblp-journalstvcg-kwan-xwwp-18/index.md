@@ -1,5 +1,5 @@
 ---
-title: "Packing Vertex Data into Hardware-Decompressible Textures"
+title: "Packing Vertex Data into Hardware-Decompressible Textures (IEEE Trans. Vis. Comput. Graph., 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.101249Z
 authors: ["Kin Chung Kwan", "Xuemiao Xu", "Liang Wan", "Tien-Tsin Wong", "Wai-Man Pang"]

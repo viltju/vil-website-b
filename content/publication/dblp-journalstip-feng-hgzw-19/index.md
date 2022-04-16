@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking"
+title: "Dynamic Saliency-Aware Regularization for Correlation Filter-Based Object Tracking (IEEE Trans. Image Process., 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.039414Z
 authors: ["Wei Feng", "Ruize Han", "Qing Guo", "Jianke Zhu", "Song Wang"]

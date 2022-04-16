@@ -1,5 +1,5 @@
 ---
-title: "Frequency-tuned active contour model"
+title: "Frequency-tuned active contour model (Neurocomputing, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.042406Z
 authors: ["Qing Guo", "Shuifa Sun", "Xuhong Ren", "Fangmin Dong", "Bruce Zhi Gao", "Wei Feng"]

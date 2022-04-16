@@ -1,5 +1,5 @@
 ---
-title: "Fast and object-adaptive spatial regularization for correlation filters based tracking"
+title: "Fast and object-adaptive spatial regularization for correlation filters based tracking (Neurocomputing, 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.037420Z
 authors: ["Pengyu Zhang", "Qing Guo", "Wei Feng"]

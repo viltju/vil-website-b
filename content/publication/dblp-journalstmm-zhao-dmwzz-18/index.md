@@ -1,5 +1,5 @@
 ---
-title: "Spherical Superpixel Segmentation"
+title: "Spherical Superpixel Segmentation (IEEE Trans. Multim., 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.100251Z
 authors: ["Qiang Zhao", "Feng Dai", "Yike Ma", "Liang Wan", "Jiawan Zhang", "Yongdong Zhang"]

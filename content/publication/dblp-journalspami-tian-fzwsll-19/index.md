@@ -1,5 +1,5 @@
 ---
-title: "Active Camera Relocalization from a Single Reference Image without Hand-Eye Calibration"
+title: "Active Camera Relocalization from a Single Reference Image without Hand-Eye Calibration (IEEE Trans. Pattern Anal. Mach. Intell., 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.039414Z
 authors: ["Fei-Peng Tian", "Wei Feng", "Qian Zhang", "Xiaowei Wang", "Jizhou Sun", "Vincenzo Loia", "Zhi-Qiang Liu"]

@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Effects of Blur and Deblurring to Visual Object Tracking"
+title: "Exploring the Effects of Blur and Deblurring to Visual Object Tracking (IEEE Trans. Image Process., 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.019468Z
 authors: ["Qing Guo", "Wei Feng", "Ruijun Gao", "Yang Liu", "Song Wang"]

@@ -1,5 +1,5 @@
 ---
-title: "A Bi-Directional, Zero-Latency Adaptive Clocking Circuit in a 28-nm Wide AVFS System"
+title: "A Bi-Directional, Zero-Latency Adaptive Clocking Circuit in a 28-nm Wide AVFS System (IEEE J. Solid State Circuits, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.090278Z
 authors: ["Weiwei Shan", "Wentao Dai", "Liang Wan", "Minyi Lu", "Longxing Shi", "Mingoo Seok", "Jun Yang"]

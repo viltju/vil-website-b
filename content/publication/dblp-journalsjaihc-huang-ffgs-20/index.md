@@ -1,5 +1,5 @@
 ---
-title: "Learning multi-path CNN for mural deterioration detection"
+title: "Learning multi-path CNN for mural deterioration detection (J. Ambient Intell. Humaniz. Comput., 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.028444Z
 authors: ["Rui Huang", "Wei Feng", "Mingyuan Fan", "Qing Guo", "Jizhou Sun"]

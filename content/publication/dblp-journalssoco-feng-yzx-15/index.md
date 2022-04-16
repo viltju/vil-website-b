@@ -1,5 +1,5 @@
 ---
-title: "NestDE: generic parameters tuning for automatic story segmentation"
+title: "NestDE: generic parameters tuning for automatic story segmentation (Soft Comput., 2015)"
 date: 2015-01-01
 publishDate: 2022-03-23T08:07:19.063350Z
 authors: ["Wei Feng", "Xuefei Yin", "Yifeng Zhang", "Lei Xie"]

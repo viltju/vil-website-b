@@ -1,5 +1,5 @@
 ---
-title: "A spectral-multiplicity-tolerant approach to robust graph matching"
+title: "A spectral-multiplicity-tolerant approach to robust graph matching (Pattern Recognit., 2013)"
 date: 2013-01-01
 publishDate: 2022-03-23T08:07:19.070332Z
 authors: ["Wei Feng", "Zhi-Qiang Liu", "Liang Wan", "Chi-Man Pun", "Jianmin Jiang"]

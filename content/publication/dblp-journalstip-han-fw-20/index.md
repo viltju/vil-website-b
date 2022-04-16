@@ -1,5 +1,5 @@
 ---
-title: "Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking"
+title: "Fast Learning of Spatially Regularized and Content Aware Correlation Filter for Visual Tracking (IEEE Trans. Image Process., 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.029442Z
 authors: ["Ruize Han", "Wei Feng", "Song Wang"]

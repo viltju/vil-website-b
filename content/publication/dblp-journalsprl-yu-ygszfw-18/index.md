@@ -1,5 +1,5 @@
 ---
-title: "emphMultiple human tracking in wearable camera videos with informationless intervals"
+title: "emphMultiple human tracking in wearable camera videos with informationless intervals (Pattern Recognit. Lett., 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.044402Z
 authors: ["Hongkai Yu", "Haozhou Yu", "Hao Guo", "Jeff P. Simmons", "Qin Zou", "Wei Feng", "Song Wang"]

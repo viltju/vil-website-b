@@ -1,5 +1,5 @@
 ---
-title: "Learning Guided Convolutional Network for Depth Completion"
+title: "Learning Guided Convolutional Network for Depth Completion (IEEE Trans. Image Process., 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.018471Z
 authors: ["Jie Tang", "Fei-Peng Tian", "Wei Feng", "Jian Li", "Ping Tan"]

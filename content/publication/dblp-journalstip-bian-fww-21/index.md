@@ -1,5 +1,5 @@
 ---
-title: "Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition"
+title: "Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition (IEEE Trans. Image Process., 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.020465Z
 authors: ["Cunling Bian", "Wei Feng", "Liang Wan", "Song Wang"]

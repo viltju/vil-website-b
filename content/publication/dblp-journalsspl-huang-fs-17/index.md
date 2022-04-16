@@ -1,5 +1,5 @@
 ---
-title: "Color Feature Reinforcement for Cosaliency Detection Without Single Saliency Residuals"
+title: "Color Feature Reinforcement for Cosaliency Detection Without Single Saliency Residuals (IEEE Signal Process. Lett., 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.054374Z
 authors: ["Rui Huang", "Wei Feng", "Jizhou Sun"]

@@ -1,5 +1,5 @@
 ---
-title: "A Low Overhead, Within-a-Cycle Adaptive Clock Stretching Circuit With Wide Operating Range in 40-nm CMOS"
+title: "A Low Overhead, Within-a-Cycle Adaptive Clock Stretching Circuit With Wide Operating Range in 40-nm CMOS (IEEE Trans. Circuits Syst. II Express Briefs, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.100251Z
 authors: ["Weiwei Shan", "Liang Wan", "Xinning Liu", "Xinchao Shang", "Wentao Dai", "Shuai Shao", "Jun Yang", "Longxing Shi"]

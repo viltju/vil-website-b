@@ -1,5 +1,5 @@
 ---
-title: "Scribble-based gradient mesh recoloring"
+title: "Scribble-based gradient mesh recoloring (Multim. Tools Appl., 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.098257Z
 authors: ["Liang Wan", "Yi Xiao", "Ning Dou", "Chi-Sing Leung", "Yu-Kun Lai"]

@@ -1,5 +1,5 @@
 ---
-title: "Cascade Markov random fields for stroke extraction of Chinese characters"
+title: "Cascade Markov random fields for stroke extraction of Chinese characters (Inf. Sci., 2010)"
 date: 2010-01-01
 publishDate: 2022-03-23T08:07:19.076316Z
 authors: ["Jia Zeng", "Wei Feng", "Lei Xie", "Zhi-Qiang Liu"]

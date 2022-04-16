@@ -1,5 +1,5 @@
 ---
-title: "Structure-Regularized Compressive Tracking With Online Data-Driven Sampling"
+title: "Structure-Regularized Compressive Tracking With Online Data-Driven Sampling (IEEE Trans. Image Process., 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.055372Z
 authors: ["Qing Guo", "Wei Feng", "Ce Zhou", "Chi-Man Pun", "Bin Wu"]

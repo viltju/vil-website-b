@@ -1,5 +1,5 @@
 ---
-title: "Self-Validated Labeling of Markov Random Fields for Image Segmentation"
+title: "Self-Validated Labeling of Markov Random Fields for Image Segmentation (IEEE Trans. Pattern Anal. Mach. Intell., 2010)"
 date: 2010-01-01
 publishDate: 2022-03-23T08:07:19.077313Z
 authors: ["Wei Feng", "Jiaya Jia", "Zhi-Qiang Liu"]

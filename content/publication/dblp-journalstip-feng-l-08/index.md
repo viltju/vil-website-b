@@ -1,5 +1,5 @@
 ---
-title: "Region-Level Image Authentication Using Bayesian Structural Content Abstraction"
+title: "Region-Level Image Authentication Using Bayesian Structural Content Abstraction (IEEE Trans. Image Process., 2008)"
 date: 2008-01-01
 publishDate: 2022-03-23T08:07:19.080305Z
 authors: ["Wei Feng", "Zhi-Qiang Liu"]

@@ -1,5 +1,5 @@
 ---
-title: "Residual error based knowledge distillation"
+title: "Residual error based knowledge distillation (Neurocomputing, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.085292Z
 authors: ["Mengya Gao", "Yujun Wang", "Liang Wan"]

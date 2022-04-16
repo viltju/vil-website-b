@@ -1,5 +1,5 @@
 ---
-title: "Color Calibration of Proximal Sensing RGB Images of Oilseed Rape Canopy via Deep Learning Combined with K-Means Algorithm"
+title: "Color Calibration of Proximal Sensing RGB Images of Oilseed Rape Canopy via Deep Learning Combined with K-Means Algorithm (Remote. Sens., 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.095266Z
 authors: ["Alwaseela Abdalla", "Haiyan Cen", "Elfatih M. Abdel-Rahman", "Liang Wan", "Yong He"]

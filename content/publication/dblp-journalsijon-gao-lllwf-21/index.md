@@ -1,5 +1,5 @@
 ---
-title: "RNN-Transducer based Chinese Sign Language Recognition"
+title: "RNN-Transducer based Chinese Sign Language Recognition (Neurocomputing, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.018471Z
 authors: ["Liqing Gao", "Haibo Li", "Zhijian Liu", "Zekang Liu", "Liang Wan", "Wei Feng"]

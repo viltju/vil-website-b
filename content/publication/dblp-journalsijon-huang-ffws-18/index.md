@@ -1,5 +1,5 @@
 ---
-title: "Multiscale blur detection by learning discriminative deep features"
+title: "Multiscale blur detection by learning discriminative deep features (Neurocomputing, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.043404Z
 authors: ["Rui Huang", "Wei Feng", "Mingyuan Fan", "Liang Wan", "Jizhou Sun"]

@@ -1,5 +1,5 @@
 ---
-title: "Nutrient Status Diagnosis of Infield Oilseed Rape via Deep Learning-Enabled Dynamic Model"
+title: "Nutrient Status Diagnosis of Infield Oilseed Rape via Deep Learning-Enabled Dynamic Model (IEEE Trans. Ind. Informatics, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.086289Z
 authors: ["Alwaseela Abdalla", "Haiyan Cen", "Liang Wan", "Khalid Mehmood", "Yong He"]

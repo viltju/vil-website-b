@@ -1,5 +1,5 @@
 ---
-title: "Audio-visual human recognition using semi-supervised spectral learning and hidden Markov models"
+title: "Audio-visual human recognition using semi-supervised spectral learning and hidden Markov models (J. Vis. Lang. Comput., 2009)"
 date: 2009-01-01
 publishDate: 2022-03-23T08:07:19.078310Z
 authors: ["Wei Feng", "Lei Xie", "Jia Zeng", "Zhi-Qiang Liu"]

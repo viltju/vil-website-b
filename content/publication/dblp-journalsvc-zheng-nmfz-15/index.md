@@ -1,5 +1,5 @@
 ---
-title: "Layered modeling and generation of Pollock's drip style"
+title: "Layered modeling and generation of Pollock's drip style (Vis. Comput., 2015)"
 date: 2015-01-01
 publishDate: 2022-03-23T08:07:19.064347Z
 authors: ["Yan Zheng", "Xuecheng Nie", "Zhao-Peng Meng", "Wei Feng", "Kang Zhang"]

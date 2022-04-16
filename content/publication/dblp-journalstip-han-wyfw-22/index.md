@@ -1,5 +1,5 @@
 ---
-title: "Multi-View Multi-Human Association With Deep Assignment Network"
+title: "Multi-View Multi-Human Association With Deep Assignment Network (IEEE Trans. Image Process., 2022)"
 date: 2022-01-01
 publishDate: 2022-03-23T08:07:19.017474Z
 authors: ["Ruize Han", "Yun Wang", "Haomin Yan", "Wei Feng", "Song Wang"]

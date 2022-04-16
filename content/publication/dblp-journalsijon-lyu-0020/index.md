@@ -1,5 +1,5 @@
 ---
-title: "vtGraphNet: Learning weakly-supervised scene graph for complex visual grounding"
+title: "vtGraphNet: Learning weakly-supervised scene graph for complex visual grounding (Neurocomputing, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.027447Z
 authors: ["Fan Lyu", "Wei Feng", "Song Wang"]

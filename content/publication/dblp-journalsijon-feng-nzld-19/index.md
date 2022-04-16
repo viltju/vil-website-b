@@ -1,5 +1,5 @@
 ---
-title: "Story co-segmentation of Chinese broadcast news using weakly-supervised semantic similarity"
+title: "Story co-segmentation of Chinese broadcast news using weakly-supervised semantic similarity (Neurocomputing, 2019)"
 date: 2019-01-01
 publishDate: 2022-03-23T08:07:19.038418Z
 authors: ["Wei Feng", "Xuecheng Nie", "Yujun Zhang", "Zhi-Qiang Liu", "Jianwu Dang"]
