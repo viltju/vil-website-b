@@ -1,5 +1,5 @@
 ---
-title: "Auto-Exposure Fusion for Single-Image Shadow Removal"
+title: "Auto-Exposure Fusion for Single-Image Shadow Removal (CVPR 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.022460Z
 authors: ["Lan Fu", "Changqing Zhou", "Qing Guo", "Felix Juefei-Xu", "Hongkai Yu", "Wei Feng", "Yang Liu", "Song Wang"]

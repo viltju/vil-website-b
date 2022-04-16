@@ -1,5 +1,5 @@
 ---
-title: "Complementary-View Multiple Human Tracking"
+title: "Complementary-View Multiple Human Tracking (AAAI 2020, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.030438Z
 authors: ["Ruize Han", "Wei Feng", "Jiewen Zhao", "Zicheng Niu", "Yujun Zhang", "Liang Wan", "Song Wang"]

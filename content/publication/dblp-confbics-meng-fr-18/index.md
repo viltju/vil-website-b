@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Hybrid Approaching for Robust Hand-Eye Calibration"
+title: "Dynamic Hybrid Approaching for Robust Hand-Eye Calibration (BICS 2018, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.047393Z
 authors: ["Chen Meng", "Wei Feng", "Jinchang Ren"]

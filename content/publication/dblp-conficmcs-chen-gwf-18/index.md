@@ -1,5 +1,5 @@
 ---
-title: "Background-Suppressed Correlation Filters for Visual Tracking"
+title: "Background-Suppressed Correlation Filters for Visual Tracking (2018 IEEE International Conference on Multimedia and Expo, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.049388Z
 authors: ["Zhihao Chen", "Qing Guo", "Liang Wan", "Wei Feng"]

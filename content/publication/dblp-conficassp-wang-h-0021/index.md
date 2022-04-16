@@ -1,5 +1,5 @@
 ---
-title: "Multiple Human Tracking in Non-Specific Coverage with Wearable Cameras"
+title: "Multiple Human Tracking in Non-Specific Coverage with Wearable Cameras (ICASSP 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.022460Z
 authors: ["Sibo Wang", "Ruize Han", "Wei Feng", "Song Wang"]

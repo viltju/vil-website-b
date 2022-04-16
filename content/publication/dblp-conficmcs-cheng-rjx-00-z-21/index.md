@@ -1,5 +1,5 @@
 ---
-title: "Deepmix: Online Auto Data Augmentation for Robust Visual Object Tracking"
+title: "Deepmix: Online Auto Data Augmentation for Robust Visual Object Tracking (2021 IEEE International Conference on Multimedia and Expo, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.111222Z
 authors: ["Ziyi Cheng", "Xuhong Ren", "Felix Juefei-Xu", "Wanli Xue", "Qing Guo", "Lei Ma", "Jianjun Zhao"]

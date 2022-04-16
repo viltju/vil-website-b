@@ -1,5 +1,5 @@
 ---
-title: "Intrinsic image decomposition by hierarchical L0 sparsity"
+title: "Intrinsic image decomposition by hierarchical L0 sparsity (ICME 2014, 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.068338Z
 authors: ["Xuecheng Nie", "Wei Feng", "Liang Wan", "Haipeng Dai", "Chi-Man Pun"]

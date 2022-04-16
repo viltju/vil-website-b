@@ -1,5 +1,5 @@
 ---
-title: "DGD-net: Local Descriptor Guided Keypoint Detection Network"
+title: "DGD-net: Local Descriptor Guided Keypoint Detection Network (2021 IEEE International Conference on Multimedia and Expo, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.024455Z
 authors: ["Xiaotao Liu", "Chen Meng", "Fei-Peng Tian", "Wei Feng"]

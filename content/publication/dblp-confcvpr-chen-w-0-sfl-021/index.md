@@ -1,5 +1,5 @@
 ---
-title: "Triple-Cooperative Video Shadow Detection"
+title: "Triple-Cooperative Video Shadow Detection (CVPR 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.087286Z
 authors: ["Zhihao Chen", "Liang Wan", "Lei Zhu", "Jia Shen", "Huazhu Fu", "Wennan Liu", "Jing Qin"]

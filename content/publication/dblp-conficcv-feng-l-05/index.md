@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Structural Content Abstraction for Region-Level Image Authentication"
+title: "Bayesian Structural Content Abstraction for Region-Level Image Authentication (10th IEEE International Conference on Computer Vision (ICCV 2005), 2005)"
 date: 2005-01-01
 publishDate: 2022-03-23T08:07:19.083297Z
 authors: ["Wei Feng", "Zhi-Qiang Liu"]

@@ -1,5 +1,5 @@
 ---
-title: "A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection"
+title: "A Multi-Task Mean Teacher for Semi-Supervised Shadow Detection (2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.030438Z
 authors: ["Zhihao Chen", "Lei Zhu", "Liang Wan", "Song Wang", "Wei Feng", "Pheng-Ann Heng"]

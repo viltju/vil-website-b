@@ -1,5 +1,5 @@
 ---
-title: "Measuring semantic similarity by contextualword connections in Chinese news story segmentation"
+title: "Measuring semantic similarity by contextualword connections in Chinese news story segmentation (ICASSP 2013, 2013)"
 date: 2013-01-01
 publishDate: 2022-03-23T08:07:19.073323Z
 authors: ["Xuecheng Nie", "Wei Feng", "Liang Wan", "Lei Xie"]

@@ -1,5 +1,5 @@
 ---
-title: "Fine-Grained Change Detection of Misaligned Scenes with Varied Illuminations"
+title: "Fine-Grained Change Detection of Misaligned Scenes with Varied Illuminations (2015 IEEE International Conference on Computer Vision, 2015)"
 date: 2015-01-01
 publishDate: 2022-03-23T08:07:19.064347Z
 authors: ["Wei Feng", "Fei-Peng Tian", "Qian Zhang", "Nan Zhang", "Liang Wan", "Jizhou Sun"]

@@ -1,5 +1,5 @@
 ---
-title: "Automatically unrolling decorations painted on 3D pottery"
+title: "Automatically unrolling decorations painted on 3D pottery (CGI 2017, 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.103244Z
 authors: ["Ye Liu", "Bo Zhang", "Liang Wan"]

@@ -1,5 +1,5 @@
 ---
-title: "SPARK: Spatial-Aware Online Incremental Attack Against Visual Tracking"
+title: "SPARK: Spatial-Aware Online Incremental Attack Against Visual Tracking (Computer Vision - ECCV 2020 - 16th European Conference, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.031436Z
 authors: ["Qing Guo", "Xiaofei Xie", "Felix Juefei-Xu", "Lei Ma", "Zhongguo Li", "Wanli Xue", "Wei Feng", "Yang Liu"]

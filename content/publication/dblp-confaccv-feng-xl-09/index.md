@@ -1,5 +1,5 @@
 ---
-title: "Multicue Graph Mincut for Image Segmentation"
+title: "Multicue Graph Mincut for Image Segmentation (Computer Vision - ACCV 2009, 2009)"
 date: 2009-01-01
 publishDate: 2022-03-23T08:07:19.078310Z
 authors: ["Wei Feng", "Lei Xie", "Zhi-Qiang Liu"]

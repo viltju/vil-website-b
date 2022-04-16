@@ -1,5 +1,5 @@
 ---
-title: "Modeling Cross-View Interaction Consistency for Paired Egocentric Interaction Recognition"
+title: "Modeling Cross-View Interaction Consistency for Paired Egocentric Interaction Recognition (ICME 2020, 2020)"
 date: 2020-01-01
 publishDate: 2022-03-23T08:07:19.032434Z
 authors: ["Zhongguo Li", "Fan Lyu", "Wei Feng", "Song Wang"]

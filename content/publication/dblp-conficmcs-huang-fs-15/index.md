@@ -1,5 +1,5 @@
 ---
-title: "Saliency and co-saliency detection by low-rank multiscale fusion"
+title: "Saliency and co-saliency detection by low-rank multiscale fusion (2015 IEEE International Conference on Multimedia and Expo, 2015)"
 date: 2015-01-01
 publishDate: 2022-03-23T08:07:19.065345Z
 authors: ["Rui Huang", "Wei Feng", "Jizhou Sun"]

@@ -1,5 +1,5 @@
 ---
-title: "Learning to Adversarially Blur Visual Object Tracking"
+title: "Learning to Adversarially Blur Visual Object Tracking (2021 IEEE/CVF International Conference on Computer Vision, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.109228Z
 authors: ["Qing Guo", "Ziyi Cheng", "Felix Juefei-Xu", "Lei Ma", "Xiaofei Xie", "Yang Liu", "Jianjun Zhao"]

@@ -1,5 +1,5 @@
 ---
-title: "Self-validated Story Segmentation of Chinese Broadcast News"
+title: "Self-validated Story Segmentation of Chinese Broadcast News (BICS 2018, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.046397Z
 authors: ["Wei Feng", "Lei Xie", "Jin Zhang", "Yujun Zhang", "Yanning Zhang"]

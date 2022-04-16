@@ -1,5 +1,5 @@
 ---
-title: "Learning to Detect Fine-Grained Change Under Variant Imaging Conditions"
+title: "Learning to Detect Fine-Grained Change Under Variant Imaging Conditions (2017 IEEE International Conference on Computer Vision Workshops, 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.057366Z
 authors: ["Rui Huang", "Wei Feng", "Zezheng Wang", "Mingyuan Fan", "Liang Wan", "Jizhou Sun"]

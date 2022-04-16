@@ -1,5 +1,5 @@
 ---
-title: "Low-Power Wide Area Networks: Changes for Smart Grid"
+title: "Low-Power Wide Area Networks: Changes for Smart Grid (and Systems - Proceedings of the 2018 CSPS, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.102246Z
 authors: ["Liang Wan", "Yirui Huang", "Weihua Li", "Yu Zhang", "Zhijian Zhang"]

@@ -1,5 +1,5 @@
 ---
-title: "Soft Clustering Guided Image Smoothing"
+title: "Soft Clustering Guided Image Smoothing (2018 IEEE International Conference on Multimedia and Expo, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.051383Z
 authors: ["Liang Li", "Xiaojie Guo", "Wei Feng", "Jiawan Zhang"]

@@ -1,5 +1,5 @@
 ---
-title: "Co-Saliency Detection Within a Single Image"
+title: "Co-Saliency Detection Within a Single Image (Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.045399Z
 authors: ["Hongkai Yu", "Kang Zheng", "Jianwu Fang", "Hao Guo", "Wei Feng", "Song Wang"]

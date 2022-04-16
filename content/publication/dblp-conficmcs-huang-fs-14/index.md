@@ -1,5 +1,5 @@
 ---
-title: "Feature selection based saliency object detection"
+title: "Feature selection based saliency object detection (2013 IEEE International Conference on Multimedia and Expo Workshops, 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.067341Z
 authors: ["Rui Huang", "Wei Feng", "Jizhou Sun"]

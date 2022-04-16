@@ -1,5 +1,5 @@
 ---
-title: "Spherical Superpixels: Benchmark and Evaluation"
+title: "Spherical Superpixels: Benchmark and Evaluation (Computer Vision - ACCV 2018 - 14th Asian Conference on Computer Vision, 2018)"
 date: 2018-01-01
 publishDate: 2022-03-23T08:07:19.046397Z
 authors: ["Liang Wan", "Xiaorui Xu", "Qiang Zhao", "Wei Feng"]

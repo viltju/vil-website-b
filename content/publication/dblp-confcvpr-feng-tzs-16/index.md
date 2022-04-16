@@ -1,5 +1,5 @@
 ---
-title: "6D Dynamic Camera Relocalization from Single Reference Image"
+title: "6D Dynamic Camera Relocalization from Single Reference Image (2016 IEEE Conference on Computer Vision and Pattern Recognition, 2016)"
 date: 2016-01-01
 publishDate: 2022-03-23T08:07:19.060358Z
 authors: ["Wei Feng", "Fei-Peng Tian", "Qian Zhang", "Jizhou Sun"]

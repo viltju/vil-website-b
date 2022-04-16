@@ -1,5 +1,5 @@
 ---
-title: "A Subword Normalized Cut Approach to Automatic Story Segmentation of Chinese Broadcast News"
+title: "A Subword Normalized Cut Approach to Automatic Story Segmentation of Chinese Broadcast News (AIRS 2009, 2009)"
 date: 2009-01-01
 publishDate: 2022-03-23T08:07:19.079308Z
 authors: ["Jin Zhang", "Lei Xie", "Wei Feng", "Yanning Zhang"]

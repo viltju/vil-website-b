@@ -1,5 +1,5 @@
 ---
-title: "Multi-Domain Multi-Task Rehearsal for Lifelong Learning"
+title: "Multi-Domain Multi-Task Rehearsal for Lifelong Learning (AAAI 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.021462Z
 authors: ["Fan Lyu", "Shuai Wang", "Wei Feng", "Zihan Ye", "Fuyuan Hu", "Song Wang"]

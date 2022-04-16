@@ -1,5 +1,5 @@
 ---
-title: "EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining"
+title: "EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining (AAAI 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.020465Z
 authors: ["Qing Guo", "Jingyang Sun", "Felix Juefei-Xu", "Lei Ma", "Xiaofei Xie", "Wei Feng", "Yang Liu", "Jianjun Zhao"]

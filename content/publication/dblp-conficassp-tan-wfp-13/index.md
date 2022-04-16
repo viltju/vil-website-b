@@ -1,5 +1,5 @@
 ---
-title: "Image co-saliency detection by propagating superpixel affinities"
+title: "Image co-saliency detection by propagating superpixel affinities (ICASSP 2013, 2013)"
 date: 2013-01-01
 publishDate: 2022-03-23T08:07:19.072326Z
 authors: ["Zhiyu Tan", "Liang Wan", "Wei Feng", "Chi-Man Pun"]

@@ -1,5 +1,5 @@
 ---
-title: "On-line boosting based real-time tracking with efficient HOG"
+title: "On-line boosting based real-time tracking with efficient HOG (ICASSP 2013, 2013)"
 date: 2013-01-01
 publishDate: 2022-03-23T08:07:19.122193Z
 authors: ["Shuifa Sun", "Qing Guo", "Fangmin Dong", "Bang Jun Lei"]

@@ -1,5 +1,5 @@
 ---
-title: "Multi-Scale TextTiling for Automatic Story Segmentation in Chinese Broadcast News"
+title: "Multi-Scale TextTiling for Automatic Story Segmentation in Chinese Broadcast News (AIRS 2008, 2008)"
 date: 2008-01-01
 publishDate: 2022-03-23T08:07:19.081303Z
 authors: ["Lei Xie", "Jia Zeng", "Wei Feng"]

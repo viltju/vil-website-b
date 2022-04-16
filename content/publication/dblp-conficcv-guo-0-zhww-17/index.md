@@ -1,5 +1,5 @@
 ---
-title: "Learning Dynamic Siamese Network for Visual Object Tracking"
+title: "Learning Dynamic Siamese Network for Visual Object Tracking (ICCV 2017, 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.057366Z
 authors: ["Qing Guo", "Wei Feng", "Ce Zhou", "Rui Huang", "Liang Wan", "Song Wang"]

@@ -1,5 +1,5 @@
 ---
-title: "L0 co-intrinsic images decomposition"
+title: "L0 co-intrinsic images decomposition (ICME 2014, 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.066342Z
 authors: ["Haipeng Dai", "Wei Feng", "Liang Wan", "Xuecheng Nie"]

@@ -1,5 +1,5 @@
 ---
-title: "Structure-regularized compressive tracking"
+title: "Structure-regularized compressive tracking (ICME 2016, 2016)"
 date: 2016-01-01
 publishDate: 2022-03-23T08:07:19.061356Z
 authors: ["Qing Guo", "Wei Feng", "Ce Zhou", "Bin Wu"]

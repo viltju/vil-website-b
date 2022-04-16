@@ -1,5 +1,5 @@
 ---
-title: "Contrast enhancement based single image dehazing VIA TV-l1 minimization"
+title: "Contrast enhancement based single image dehazing VIA TV-l1 minimization (ICME 2014, 2014)"
 date: 2014-01-01
 publishDate: 2022-03-23T08:07:19.068338Z
 authors: ["Liang Li", "Wei Feng", "Jiawan Zhang"]

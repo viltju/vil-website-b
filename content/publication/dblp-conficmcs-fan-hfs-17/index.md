@@ -1,5 +1,5 @@
 ---
-title: "Image blur classification and blur usefulness assessment"
+title: "Image blur classification and blur usefulness assessment (2017 IEEE International Conference on Multimedia & Expo Workshops, 2017)"
 date: 2017-01-01
 publishDate: 2022-03-23T08:07:19.058365Z
 authors: ["Mingyuan Fan", "Rui Huang", "Wei Feng", "Jizhou Sun"]

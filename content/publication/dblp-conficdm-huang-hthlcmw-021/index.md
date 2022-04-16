@@ -1,5 +1,5 @@
 ---
-title: "STAN: Adversarial Network for Cross-domain Question Difficulty Prediction"
+title: "STAN: Adversarial Network for Cross-domain Question Difficulty Prediction (ICDM 2021, 2021)"
 date: 2021-01-01
 publishDate: 2022-03-23T08:07:19.087286Z
 authors: ["Ye Huang", "Wei Huang", "Shiwei Tong", "Zhenya Huang", "Qi Liu", "Enhong Chen", "Jianhui Ma", "Liang Wan", "Shijin Wang"]
