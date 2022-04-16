@@ -10,7 +10,8 @@ authors:
   - Mingqian Wang
   - Qingxia Li
   - Cheng Li
-  - Song Wang
+  - Song Wang (CVPR 2021
+  - 2021)
 doi: 10.1109/ICCV48922.2021.01539
 publication: "*2021 IEEE/CVF International Conference on Computer Vision, ICCV
   2021, Montreal, QC, Canada, October 10-17, 2021*"
