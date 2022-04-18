@@ -6,7 +6,7 @@ title: Song Wang
 superuser: true
 
 # Role/position
-role: Professor
+role: Professor (Collaborated)
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Lei Zhu
 superuser: true
 
 # Role/position
-role: Professor
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Huazhu Fu (Senior Scientist)
+title: Huazhu Fu 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor
+role: Senior Scientist
 
 # Organizations/Affiliations
 organizations:
