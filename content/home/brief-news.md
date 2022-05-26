@@ -6,7 +6,7 @@ weight: 17
 title: Brief News
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
 * 2022/3/26, a paper is accepted by TPAMI.
 * 2022/3/04, two papers are accepted by CVPR2022.
