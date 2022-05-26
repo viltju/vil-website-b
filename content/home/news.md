@@ -3,7 +3,7 @@ widget: pages
 widget_id: Recent news
 headless: true
 weight: 20
-title: Latest News
+title: Group Activity
 subtitle: null
 content:
   count: 5
