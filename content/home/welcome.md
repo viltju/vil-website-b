@@ -12,7 +12,7 @@ design:
   background:
     image: welcome.png
     image_position: right
-    image_size: actual
+    image_size: contain
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
