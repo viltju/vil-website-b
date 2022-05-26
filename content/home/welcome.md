@@ -8,6 +8,8 @@ headless: true  # This file represents a page section.
 weight: 11  # Order that this section will appear.
 title: Visual Intelligence Lab
 hero_media: welcome.png
+spacing:
+    padding: ["50px", "50px", "50px", "50px"]
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
