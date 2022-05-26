@@ -9,9 +9,8 @@ weight: 11  # Order that this section will appear.
 title: Visual Intelligence Lab
 hero_media: welcome.png
 design:
-  spacing:
-      padding: ["50px", "50px", "50px", "50px"]
-design:
+  background:
+    image_size: actual
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
