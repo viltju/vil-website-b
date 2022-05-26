@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 weight: 11  # Order that this section will appear.
 title: Visual Intelligence Lab
 hero_media: welcome.png
@@ -12,7 +12,7 @@ design:
   background:
     image_size: actual
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Add custom styles
   css_style:
   css_class:
