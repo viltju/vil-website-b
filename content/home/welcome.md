@@ -16,7 +16,7 @@ design:
     image_position: center
     image_size: actual
   spacing:
-    padding: ["50px", "50px", "50px", "50px"]
+    padding: ["0", "0", "0", "200px"]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
