@@ -13,7 +13,7 @@ design:
     image: welcome.png
     image_darken: 0
     image_parallax: false
-    image_position: right
+    image_position: center
     image_size: actual
   spacing:
     padding: ["50px", "50px", "50px", "50px"]
