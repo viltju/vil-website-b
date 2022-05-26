@@ -14,7 +14,9 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: right
-    image_size: cover
+    image_size: contain
+  spacing:
+    padding: ["50px", "50px", "50px", "50px"]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
