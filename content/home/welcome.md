@@ -9,6 +9,7 @@ weight: 11  # Order that this section will appear.
 title: Visual Intelligence Lab
 hero_media: welcome.png
 hero_media_size: actual
+hero_media_position: center
 # design:
 #  background:
 #    image: welcome.png
