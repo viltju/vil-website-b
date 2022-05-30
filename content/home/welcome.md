@@ -7,8 +7,8 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: false  # This file represents a page section.
 weight: 11  # Order that this section will appear.
 title: Visual Intelligence Lab
-hero_media: welcome.png
-# hero_media_size: actual
+![Avatar](welcome.png)
+# hero_media: welcome.png
 # design:
 #  background:
 #    image: welcome.png
