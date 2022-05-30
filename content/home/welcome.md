@@ -12,11 +12,11 @@ design:
   background:
     image: welcome.png
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: right
     image_size: actual
   spacing:
-    padding: ["0", "600px", "0", "0"]
+    padding: ["0", "0", "0", "0"]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
