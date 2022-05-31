@@ -8,6 +8,7 @@ abstract: ""
 featured: false
 publication: "*MM '20: The 28th ACM International Conference on Multimedia, Virtual Event / Seattle, WA, USA, October 12-16, 2020*"
 url_pdf: "https://doi.org/10.1145/3394171.3413903"
+url_code: "https://github.com/viltju/CVID"
 doi: "10.1145/3394171.3413903"
 ---
 
